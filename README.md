@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Mariia Zelenskaia
-- 💞️ I study at the Georg-August-University of Götiingen
+- 💞️ I study at the Georg-August-University of Göttingen
 - 👀 I’m interested in computational biology and especially in transcriptomics 
 - 🌱 I’m currently working on transcriptom annotation pipeline
 
