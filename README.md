@@ -3,7 +3,7 @@
 - 👀 I’m interested in computational biology and especially in transcriptomics 
 - 🌱 I’m currently working on transcriptom annotation pipeline
 
-- 📫 mariia.zelenskaia@stud.uni-goettingen.de
+- 📫 
 
 <!---
 mariia-zelenskaia/mariia-zelenskaia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
